@@ -1,0 +1,8 @@
+﻿In order to enable Put/Delete on your web server (if it isn't working), add this to the web.config 
+file that is in the root of you publish directory:
+
+<system.webServer>
+	<modules runALLManagedModulesForAllRequests="false">
+		<remove name="WebDAVModule" />
+	</modules>
+</system.webServer>
