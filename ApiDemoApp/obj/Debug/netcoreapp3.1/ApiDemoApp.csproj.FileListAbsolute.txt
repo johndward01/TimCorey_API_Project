@@ -46,7 +46,6 @@ C:\Users\johnd\Desktop\TA_repo\ApiDemo\ApiDemoApp\obj\Debug\netcoreapp3.1\ApiDem
 C:\Users\johnd\Desktop\TA_repo\ApiDemo\ApiDemoApp\obj\Debug\netcoreapp3.1\ApiDemoApp.genruntimeconfig.cache
 C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\bin\Debug\netcoreapp3.1\ApiDemoApp.exe
 C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\bin\Debug\netcoreapp3.1\ApiDemoApp.deps.json
 C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\bin\Debug\netcoreapp3.1\ApiDemoApp.runtimeconfig.json
@@ -90,3 +89,4 @@ C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\obj\Debug
 C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\obj\Debug\netcoreapp3.1\ApiDemoApp.dll
 C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\obj\Debug\netcoreapp3.1\ApiDemoApp.pdb
 C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\obj\Debug\netcoreapp3.1\ApiDemoApp.genruntimeconfig.cache
+C:\Users\johnd\Desktop\Projects\IAmTimCoreyProjects\ApiDemo\ApiDemoApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiDemoApp.styles.css
